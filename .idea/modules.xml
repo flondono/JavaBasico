@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Ciclos/Ciclos.iml" filepath="$PROJECT_DIR$/Ciclos/Ciclos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClasesEnvolventes/ClasesEnvolventes.iml" filepath="$PROJECT_DIR$/ClasesEnvolventes/ClasesEnvolventes.iml" />
       <module fileurl="file://$PROJECT_DIR$/Condicionales/Condicionales.iml" filepath="$PROJECT_DIR$/Condicionales/Condicionales.iml" />
       <module fileurl="file://$PROJECT_DIR$/InputOutput/InputOutput.iml" filepath="$PROJECT_DIR$/InputOutput/InputOutput.iml" />
       <module fileurl="file://$PROJECT_DIR$/Intellij-workspace.iml" filepath="$PROJECT_DIR$/Intellij-workspace.iml" />
