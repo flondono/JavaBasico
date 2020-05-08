@@ -15,8 +15,12 @@ public class DateTime {
         objeto.usarOf();
         System.out.println("----------------");
         objeto.usarParse();
-        System.out.println("----------------");*/
-        objeto.regresaPartesDateTime();
+        System.out.println("----------------");
+        objeto.regresaPartesDateTime();*/
+        ComparaDateTime objeto1 = new ComparaDateTime();
+        //objeto1.isBefore();
+        //objeto1.isAfter();
+        objeto1.compareTo();
     }
 
     public void regresaPartesDateTime() {
