@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/Intellij-workspace.iml" filepath="$PROJECT_DIR$/Intellij-workspace.iml" />
       <module fileurl="file://$PROJECT_DIR$/ManejoFechasYHoras/ManejoFechasYHoras.iml" filepath="$PROJECT_DIR$/ManejoFechasYHoras/ManejoFechasYHoras.iml" />
       <module fileurl="file://$PROJECT_DIR$/Math/Math.iml" filepath="$PROJECT_DIR$/Math/Math.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Metodos/Metodos.iml" filepath="$PROJECT_DIR$/Metodos/Metodos.iml" />
       <module fileurl="file://$PROJECT_DIR$/TiposDeDatos/TiposDeDatos.iml" filepath="$PROJECT_DIR$/TiposDeDatos/TiposDeDatos.iml" />
     </modules>
   </component>
