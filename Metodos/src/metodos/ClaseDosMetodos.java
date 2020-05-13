@@ -1,3 +1,5 @@
+package metodos;
+
 public class ClaseDosMetodos {
 
     //Calling method
