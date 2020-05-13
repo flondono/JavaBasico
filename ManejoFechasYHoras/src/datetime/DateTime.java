@@ -20,7 +20,11 @@ public class DateTime {
         ComparaDateTime objeto1 = new ComparaDateTime();
         //objeto1.isBefore();
         //objeto1.isAfter();
-        objeto1.compareTo();
+        //objeto1.compareTo();
+        AjustandoDateTime objeto2 = new AjustandoDateTime();
+        //objeto2.ajustaDateTime();
+        objeto2.modificarTiempo();
+
     }
 
     public void regresaPartesDateTime() {
