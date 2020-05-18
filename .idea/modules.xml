@@ -7,11 +7,13 @@
       <module fileurl="file://$PROJECT_DIR$/Ciclos/Ciclos.iml" filepath="$PROJECT_DIR$/Ciclos/Ciclos.iml" />
       <module fileurl="file://$PROJECT_DIR$/ClasesEnvolventes/ClasesEnvolventes.iml" filepath="$PROJECT_DIR$/ClasesEnvolventes/ClasesEnvolventes.iml" />
       <module fileurl="file://$PROJECT_DIR$/Condicionales/Condicionales.iml" filepath="$PROJECT_DIR$/Condicionales/Condicionales.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulamiento/Encapsulamiento.iml" filepath="$PROJECT_DIR$/Encapsulamiento/Encapsulamiento.iml" />
       <module fileurl="file://$PROJECT_DIR$/InputOutput/InputOutput.iml" filepath="$PROJECT_DIR$/InputOutput/InputOutput.iml" />
       <module fileurl="file://$PROJECT_DIR$/Intellij-workspace.iml" filepath="$PROJECT_DIR$/Intellij-workspace.iml" />
       <module fileurl="file://$PROJECT_DIR$/ManejoFechasYHoras/ManejoFechasYHoras.iml" filepath="$PROJECT_DIR$/ManejoFechasYHoras/ManejoFechasYHoras.iml" />
       <module fileurl="file://$PROJECT_DIR$/Math/Math.iml" filepath="$PROJECT_DIR$/Math/Math.iml" />
       <module fileurl="file://$PROJECT_DIR$/Metodos/Metodos.iml" filepath="$PROJECT_DIR$/Metodos/Metodos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Paquetes/Paquetes.iml" filepath="$PROJECT_DIR$/Paquetes/Paquetes.iml" />
       <module fileurl="file://$PROJECT_DIR$/TiposDeDatos/TiposDeDatos.iml" filepath="$PROJECT_DIR$/TiposDeDatos/TiposDeDatos.iml" />
     </modules>
   </component>
