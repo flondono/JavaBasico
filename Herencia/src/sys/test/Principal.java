@@ -18,7 +18,8 @@ public class Principal {
         Intendente intendente = new Intendente("Cocina", "Pedro", 50, "M");
         intendente.muestraInfoIntendete();
 
-        Profesor profesor = new Profesor("1235", "Matematicas", "Fernando", 50, "M");
+        Profesor profesor = new Profesor("1235", "Matematicas", "Fernando", 50,
+                "M");
         profesor.muestraInfoProfesor();
     }
 }
