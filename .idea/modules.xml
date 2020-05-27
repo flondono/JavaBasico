@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/AmbitoVariable/AmbitoVariable.iml" filepath="$PROJECT_DIR$/AmbitoVariable/AmbitoVariable.iml" />
       <module fileurl="file://$PROJECT_DIR$/Arreglos/Arreglos.iml" filepath="$PROJECT_DIR$/Arreglos/Arreglos.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ciclos/Ciclos.iml" filepath="$PROJECT_DIR$/Ciclos/Ciclos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClasesAbstractas/ClasesAbstractas.iml" filepath="$PROJECT_DIR$/ClasesAbstractas/ClasesAbstractas.iml" />
       <module fileurl="file://$PROJECT_DIR$/ClasesEnvolventes/ClasesEnvolventes.iml" filepath="$PROJECT_DIR$/ClasesEnvolventes/ClasesEnvolventes.iml" />
       <module fileurl="file://$PROJECT_DIR$/Condicionales/Condicionales.iml" filepath="$PROJECT_DIR$/Condicionales/Condicionales.iml" />
       <module fileurl="file://$PROJECT_DIR$/Encapsulamiento/Encapsulamiento.iml" filepath="$PROJECT_DIR$/Encapsulamiento/Encapsulamiento.iml" />
@@ -15,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/Math/Math.iml" filepath="$PROJECT_DIR$/Math/Math.iml" />
       <module fileurl="file://$PROJECT_DIR$/Metodos/Metodos.iml" filepath="$PROJECT_DIR$/Metodos/Metodos.iml" />
       <module fileurl="file://$PROJECT_DIR$/Paquetes/Paquetes.iml" filepath="$PROJECT_DIR$/Paquetes/Paquetes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polimorfismo/Polimorfismo.iml" filepath="$PROJECT_DIR$/Polimorfismo/Polimorfismo.iml" />
       <module fileurl="file://$PROJECT_DIR$/TiposDeDatos/TiposDeDatos.iml" filepath="$PROJECT_DIR$/TiposDeDatos/TiposDeDatos.iml" />
     </modules>
   </component>
