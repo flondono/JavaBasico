@@ -12,12 +12,14 @@
       <module fileurl="file://$PROJECT_DIR$/Herencia/Herencia.iml" filepath="$PROJECT_DIR$/Herencia/Herencia.iml" />
       <module fileurl="file://$PROJECT_DIR$/InputOutput/InputOutput.iml" filepath="$PROJECT_DIR$/InputOutput/InputOutput.iml" />
       <module fileurl="file://$PROJECT_DIR$/Intellij-workspace.iml" filepath="$PROJECT_DIR$/Intellij-workspace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interfaces/Interfaces.iml" filepath="$PROJECT_DIR$/Interfaces/Interfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/ManejoFechasYHoras/ManejoFechasYHoras.iml" filepath="$PROJECT_DIR$/ManejoFechasYHoras/ManejoFechasYHoras.iml" />
       <module fileurl="file://$PROJECT_DIR$/Math/Math.iml" filepath="$PROJECT_DIR$/Math/Math.iml" />
       <module fileurl="file://$PROJECT_DIR$/Metodos/Metodos.iml" filepath="$PROJECT_DIR$/Metodos/Metodos.iml" />
       <module fileurl="file://$PROJECT_DIR$/Paquetes/Paquetes.iml" filepath="$PROJECT_DIR$/Paquetes/Paquetes.iml" />
       <module fileurl="file://$PROJECT_DIR$/Polimorfismo/Polimorfismo.iml" filepath="$PROJECT_DIR$/Polimorfismo/Polimorfismo.iml" />
       <module fileurl="file://$PROJECT_DIR$/TiposDeDatos/TiposDeDatos.iml" filepath="$PROJECT_DIR$/TiposDeDatos/TiposDeDatos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VariablePolimorfisca/VariablePolimorfisca.iml" filepath="$PROJECT_DIR$/VariablePolimorfisca/VariablePolimorfisca.iml" />
     </modules>
   </component>
 </project>
