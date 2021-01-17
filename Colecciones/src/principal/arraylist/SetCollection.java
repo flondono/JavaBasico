@@ -5,6 +5,7 @@ import clases.Agenda;
 import java.util.Collection;
 import java.util.HashSet;
 import java.util.Set;
+import javax.jws.WebService;
 
 public class SetCollection {
 
@@ -18,15 +19,12 @@ public class SetCollection {
         agendaClientes.add(agenda);
         agendaClientes.add(agenda1);
         agendaClientes.add(agenda2);
-
         imprimeSet(agendaClientes);
     }
 
     static void imprimeSet(Collection<Agenda> col) {
-        for (Agenda agenda:col
-             ) {
+        for (Agenda agenda : col) {
             System.out.println("agenda = " + agenda.getNombre() + agenda.getEdad() + agenda.getTelefono());
-
         }
     }
 }
